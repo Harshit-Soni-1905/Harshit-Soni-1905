@@ -77,9 +77,9 @@ My goal is to become a skilled **Software Developer and AI Engineer** by continu
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/YOUR_USERNAME  
+GitHub: https://github.com/Harshit-Soni-1905 
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+LinkedIn: https://www.linkedin.com/in/harshitxsoni/
 
 Email: YOUR_EMAIL
 
