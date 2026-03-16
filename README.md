@@ -81,7 +81,7 @@ GitHub: https://github.com/Harshit-Soni-1905
 
 LinkedIn: https://www.linkedin.com/in/harshitxsoni/
 
-Email: YOUR_EMAIL
+Email: harshitsoni1905@gmail.com
 
 ---
 
