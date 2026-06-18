@@ -1,4 +1,3 @@
-````html
 <h1 align="center">Hi 👋, I'm Harshit Soni</h1>
 
 <h3 align="center">
@@ -9,24 +8,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI%2FML+Enthusiast;Software+Developer;Data+Science+Explorer;Always+Learning+Something+New" />
 </p>
 
-<hr>
+---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-<ul>
-<li>🎓 B.Tech Computer Science Student</li>
-<li>🤖 Passionate about Artificial Intelligence & Machine Learning</li>
-<li>💻 Love building projects and solving coding challenges</li>
-<li>📊 Exploring Data Science and Model Development</li>
-<li>🌱 Continuously learning new technologies</li>
-<li>🚀 Aspiring Software Engineer</li>
-</ul>
+🎓 B.Tech Computer Science Student
 
-<br><br>
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-<h2>🛠️ Languages</h2>
+💻 Love building projects and solving coding challenges
+
+📊 Exploring Data Science and Model Development
+
+🌱 Continuously learning new technologies
+
+🚀 Aspiring Software Engineer
+
+---
+
+## 🛠️ Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -35,7 +37,9 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-<h2>⚙️ Libraries & Tools</h2>
+---
+
+## ⚙️ Libraries & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git" />
@@ -60,19 +64,22 @@
 
 </p>
 
-<hr>
+---
 
-<h2>📚 Currently Learning</h2>
+## 📚 Learning Roadmap
 
 ```text
-Machine Learning      ████████░░
-Deep Learning         ███░░░░░░░
-Data Analysis         ███████░░░
-System Design         ███░░░░░░░
-Advanced DSA          ██████░░░░
-````
+Python              ██████████ 100%
+Java                ████████░░ 80%
+Data Structures     ███████░░░ 70%
+Machine Learning    ██████░░░░ 60%
+Deep Learning       ███░░░░░░░ 30%
+System Design       ██░░░░░░░░ 20%
+```
 
-<h2>🚀 Current Interests</h2>
+---
+
+## 🚀 Current Interests
 
 <table>
 <tr>
@@ -88,13 +95,12 @@ Advanced DSA          ██████░░░░
 </tr>
 </table>
 
-<hr>
+---
 
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -102,9 +108,9 @@ Advanced DSA          ██████░░░░
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
-<hr>
+---
 
-<h2>🎯 Developer Mindset</h2>
+## 🎯 Developer Mindset
 
 ```python
 while True:
@@ -114,7 +120,9 @@ while True:
     repeat()
 ```
 
-<h2>🤝 Let's Connect</h2>
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 
@@ -132,7 +140,7 @@ while True:
 
 </p>
 
-<hr>
+---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
@@ -141,4 +149,3 @@ while True:
 <h3 align="center">
 💭 "Consistency beats talent when talent doesn't work consistently."
 </h3>
-```
