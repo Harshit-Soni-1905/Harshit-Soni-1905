@@ -65,18 +65,6 @@
 </p>
 
 ---
-
-## 📚 Learning Roadmap
-
-```text
-Python              ██████████ 100%
-Java                ████████░░ 80%
-Data Structures     ███████░░░ 70%
-Machine Learning    ██████░░░░ 60%
-Deep Learning       ███░░░░░░░ 30%
-System Design       ██░░░░░░░░ 20%
-```
-
 ---
 
 ## 🚀 Current Interests
