@@ -187,20 +187,22 @@ Computer Science & Engineering Student • AI/ML • Deep Learning • Software 
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshit-Soni-1905&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Soni-1905&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Soni-1905&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Harshit-Soni-1905&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Soni-1905&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Soni-1905&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Soni-1905&theme=tokyo-night&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Harshit-Soni-1905&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Soni-1905&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
