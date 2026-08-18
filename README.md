@@ -1,100 +1,197 @@
 <h1 align="center">Hi 👋, I'm Harshit Soni</h1>
 
 <h3 align="center">
-🚀 Computer Science & Engineering Student | AI/ML & Deep Learning Enthusiast | Software Developer
+Computer Science & Engineering Student • AI/ML • Deep Learning • Software Development
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Science+Student;AI%2FML+%26+Deep+Learning+Enthusiast;Software+Developer;Data+Science+Explorer;Building+Projects+with+PyTorch;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Deep+Learning;Building+with+PyTorch;Computer+Vision+%26+NLP;Exploring+Generative+AI+%26+RAG;Machine+Learning+%7C+FastAPI+%7C+Python;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Harshit-Soni-1905">
+<img src="https://img.shields.io/github/followers/Harshit-Soni-1905?label=Followers&style=for-the-badge&logo=github"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Harshit-Soni-1905&label=Profile%20Views&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-🎓 B.Tech Computer Science & Engineering Student
+🎓 B.Tech Computer Science & Engineering student
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+🤖 Focused on **Machine Learning, Deep Learning & Artificial Intelligence**
 
-🧠 Currently building Deep Learning projects using PyTorch
+🧠 Building and experimenting with **PyTorch-based Deep Learning systems**
 
-📊 Interested in Data Science, Computer Vision & Model Development
+👁️ Exploring **Computer Vision, NLP, Transformers & Generative AI**
 
-💻 Love building projects and solving coding challenges
+🔎 Currently learning and building with **RAG, LLM concepts & AI application development**
 
-🌱 Continuously learning new technologies
+⚙️ Building ML applications and APIs using **FastAPI & Streamlit**
 
-🚀 Aspiring AI/ML Engineer & Software Developer
+📊 Experience with **Machine Learning, Data Analysis & Unsupervised Learning**
 
----
+💻 Practicing **Data Structures & Algorithms** and competitive programming
 
-## 🛠️ Languages
+🏆 Solved **500+ programming problems on CodeChef**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+🌱 Continuously learning, experimenting and turning concepts into projects
 
 ---
 
-## ⚙️ Frameworks, Libraries & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
+## 🧠 AI / ML Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+### Machine Learning
+
+* Supervised Learning
+* Unsupervised Learning
+* Classification & Regression
+* Clustering
+* Feature Engineering
+* Model Evaluation
+* Dimensionality Reduction
+* PCA
+* Data Preprocessing
+
+### Deep Learning
+
+* Neural Networks
+* Convolutional Neural Networks
+* Recurrent Neural Networks
+* Computer Vision
+* Transfer Learning concepts
+* Model Training & Evaluation
+* PyTorch
+
+### NLP & Generative AI
+
+* NLP fundamentals
+* Tokenization & Embeddings
+* Attention Mechanism
+* Transformers
+* BERT & GPT concepts
+* Large Language Model concepts
+* Retrieval-Augmented Generation (RAG)
+* AI Application Development
+
+### Reinforcement Learning
+
+* Markov Decision Processes
+* Q-Learning
+* SARSA
+* Epsilon-Greedy
+* Experience Replay
+* Deep Reinforcement Learning concepts
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql" />
 
 </p>
 
 ---
 
-## 🚀 Current Interests
+## ⚙️ Development & Engineering
 
-<table>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,fastapi" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+### Development Skills
+
+* REST API Development
+* FastAPI
+* Pydantic
+* MySQL
+* Streamlit
+* Git & GitHub
+* Jupyter Notebook
+* Google Colab
+* VS Code
+
+---
+
+
+
+## 📚 Computer Science Foundations
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Architecture-222222?style=for-the-badge"/>
+
+</p>
+
+---
+
+
+## 🔬 Areas I'm Exploring
+
+<table align="center">
 <tr>
-<td align="center">🤖 AI & Deep Learning</td>
-<td align="center">📊 Machine Learning</td>
-<td align="center">🧠 Computer Vision</td>
+<td align="center" width="200">🤖<br><b>Machine Learning</b></td>
+<td align="center" width="200">🧠<br><b>Deep Learning</b></td>
+<td align="center" width="200">👁️<br><b>Computer Vision</b></td>
 </tr>
 
 <tr>
-<td align="center">💻 Software Development</td>
-<td align="center">☁️ Open Source</td>
-<td align="center">⚡ Data Science</td>
+<td align="center">💬<br><b>NLP & Transformers</b></td>
+<td align="center">✨<br><b>Generative AI</b></td>
+<td align="center">🔎<br><b>RAG & LLMs</b></td>
+</tr>
+
+<tr>
+<td align="center">🎮<br><b>Reinforcement Learning</b></td>
+<td align="center">⚡<br><b>AI Applications</b></td>
+<td align="center">☁️<br><b>Deployment & MLOps</b></td>
 </tr>
 </table>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshit-Soni-1905&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Soni-1905&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Soni-1905&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
@@ -107,38 +204,18 @@
 
 ---
 
-## 🎯 Current Learning Journey
-
-```text
-Artificial Intelligence
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Deep Learning (PyTorch)
-        │
-        ▼
-Computer Vision
-        │
-        ▼
-Real-world AI Projects
-```
-
----
-
-## 🎯 Developer Mindset
+## 🧑‍💻 Developer Mindset
 
 ```python
 while True:
     learn()
     build()
     experiment()
+    break_things()
+    debug()
     improve()
     repeat()
 ```
-
----
 
 ---
 
@@ -163,9 +240,9 @@ while True:
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harshit-Soni-1905&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<b>Building at the intersection of AI, software and curiosity.</b>
 </p>
 
-<h3 align="center">
-💭 "Consistency beats talent when talent doesn't work consistently."
-</h3>
+<p align="center">
+<i>"Consistency beats talent when talent doesn't work consistently."</i>
+</p>
