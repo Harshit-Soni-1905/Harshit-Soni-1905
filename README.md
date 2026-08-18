@@ -10,7 +10,7 @@ Computer Science & Engineering Student • AI/ML • Deep Learning • Software 
 
 <p align="center">
 <a href="https://github.com/Harshit-Soni-1905">
-<img src="https://img.shields.io/github/followers/Harshit-Soni-1905?label=Followers&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Harshit-Soni-1905?label=Followers&style=for-the-badge&logo=github&cacheSeconds=300"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Harshit-Soni-1905&label=Profile%20Views&style=for-the-badge"/>
 </p>
