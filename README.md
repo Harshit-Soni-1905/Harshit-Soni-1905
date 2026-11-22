@@ -1,250 +1,105 @@
-<h1 align="center">Hi 👋, I'm Harshit Soni</h1>
-
-<h3 align="center">
-Computer Science & Engineering Student • AI/ML • Deep Learning • Software Development
-</h3>
+<h1 align="center">Harshit Soni</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Deep+Learning;Building+with+PyTorch;Computer+Vision+%26+NLP;Exploring+Generative+AI+%26+RAG;Machine+Learning+%7C+FastAPI+%7C+Python;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+  <b>AI/ML Engineering Student · B.Tech CSE '28 · ABES Engineering College</b><br>
+  I build and deploy machine learning systems: RAG pipelines, computer vision models, and the APIs and apps around them.
 </p>
 
 <p align="center">
-<a href="https://github.com/Harshit-Soni-1905">
-<img src="https://img.shields.io/github/followers/Harshit-Soni-1905?label=Followers&style=for-the-badge&logo=github&cacheSeconds=300"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Harshit-Soni-1905&label=Profile%20Views&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/harshitxsoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harshitsoni1905@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-222222?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 </p>
+
+<p align="center"><b>Open to AI/ML internships</b> · Delhi NCR, India · Open to remote</p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-🎓 B.Tech Computer Science & Engineering student
-
-🤖 Focused on **Machine Learning, Deep Learning & Artificial Intelligence**
-
-🧠 Building and experimenting with **PyTorch-based Deep Learning systems**
-
-👁️ Exploring **Computer Vision, NLP, Transformers & Generative AI**
-
-🔎 Currently learning and building with **RAG, LLM concepts & AI application development**
-
-⚙️ Building ML applications and APIs using **FastAPI & Streamlit**
-
-📊 Experience with **Machine Learning, Data Analysis & Unsupervised Learning**
-
-💻 Practicing **Data Structures & Algorithms** and competitive programming
-
-🏆 Solved **500+ programming problems on CodeChef**
-
-🌱 Continuously learning, experimenting and turning concepts into projects
+- Third-year B.Tech CSE student focused on **Machine Learning Engineering**
+- Currently building: **Smart Obstacle Narrator**, a 4-person college major project (YOLOv8 + spoken warnings)
+- Strongest areas: **PyTorch, RAG and LLM pipelines, model deployment**
+- Solved **500+ problems on CodeChef** (CODECHEF_PROFILE_LINK)
 
 ---
 
-## 🧠 AI / ML Stack
+## Featured Projects
 
-<p align="center">
+### 🔎 RepoMind: AI Code-Intelligence System
+Ask questions about any codebase in plain English. RepoMind scans a repository, builds embeddings and a code graph, and answers using a tool-calling agent.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-</p>
-
-### Machine Learning
-
-* Supervised Learning
-* Unsupervised Learning
-* Classification & Regression
-* Clustering
-* Feature Engineering
-* Model Evaluation
-* Dimensionality Reduction
-* PCA
-* Data Preprocessing
-
-### Deep Learning
-
-* Neural Networks
-* Convolutional Neural Networks
-* Recurrent Neural Networks
-* Computer Vision
-* Transfer Learning concepts
-* Model Training & Evaluation
-* PyTorch
-
-### NLP & Generative AI
-
-* NLP fundamentals
-* Tokenization & Embeddings
-* Attention Mechanism
-* Transformers
-* BERT & GPT concepts
-* Large Language Model concepts
-* Retrieval-Augmented Generation (RAG)
-* AI Application Development
-
-### Reinforcement Learning
-
-* Markov Decision Processes
-* Q-Learning
-* SARSA
-* Epsilon-Greedy
-* Experience Replay
-* Deep Reinforcement Learning concepts
+- **What it does:** repository scanning and ingestion, embeddings with vector search, RAG, code graph, ReAct-style agent with tool calling, CLI
+- **How it was evaluated:** retrieval metrics (Precision@k, Recall@k, MRR, nDCG)
+- **Result:** ADD_YOUR_BEST_METRIC_HERE (e.g. "MRR of X on Y test queries")
+- **Stack:** Python · Embeddings · Vector DB · LLM APIs · Docker
+- 🔗 [Repository](REPOMIND_REPO_LINK)
 
 ---
 
-## 💻 Programming Languages
+### 🚶 Smart Obstacle Narrator *(in progress)*
+A system that detects obstacles and gives spoken warnings, built to help with navigation. Team project (4 members).
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql" />
-
-</p>
-
----
-
-## ⚙️ Development & Engineering
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,fastapi" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
-### Development Skills
-
-* REST API Development
-* FastAPI
-* Pydantic
-* MySQL
-* Streamlit
-* Git & GitHub
-* Jupyter Notebook
-* Google Colab
-* VS Code
+- **Pipeline:** YOLOv8 obstacle detection → monocular distance and direction estimation → priority filtering → text-to-speech warnings
+- **My module:** WRITE_YOUR_OWN_MODULE_HERE
+- **Stack:** Python · YOLOv8 · PyTorch · Streamlit
+- 🔗 [Repository](https://github.com/Harshit-Soni-1905/Smart-Obstacle-Narrator) · [Live Demo](https://smart-obstacle-narrator-1.streamlit.app/)
 
 ---
 
+### 🕵️ FrameCheck: Deepfake Face Detection
+A CNN that classifies face images as real or fake, served through a Streamlit app.
 
-
-## 📚 Computer Science Foundations
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Architecture-222222?style=for-the-badge"/>
-
-</p>
+- **Dataset:** Kaggle "140k Real and Fake Faces"
+- **Performance:** about 90% training and 92% validation accuracy
+- **Known limitation:** accuracy drops on images from outside the dataset (distribution shift). I documented this in the repo rather than hiding it.
+- **Stack:** Python · PyTorch · CNN · Streamlit
+- 🔗 [Repository](https://github.com/Harshit-Soni-1905/DeepFake-Detection-CNN)
 
 ---
 
+### ⚡ WattWise: Energy Consumption Forecasting
+Forecasts hourly electricity demand from the PJME dataset, built for HCL Project P_203.
 
-## 🔬 Areas I'm Exploring
-
-<table align="center">
-<tr>
-<td align="center" width="200">🤖<br><b>Machine Learning</b></td>
-<td align="center" width="200">🧠<br><b>Deep Learning</b></td>
-<td align="center" width="200">👁️<br><b>Computer Vision</b></td>
-</tr>
-
-<tr>
-<td align="center">💬<br><b>NLP & Transformers</b></td>
-<td align="center">✨<br><b>Generative AI</b></td>
-<td align="center">🔎<br><b>RAG & LLMs</b></td>
-</tr>
-
-<tr>
-<td align="center">🎮<br><b>Reinforcement Learning</b></td>
-<td align="center">⚡<br><b>AI Applications</b></td>
-<td align="center">☁️<br><b>Deployment & MLOps</b></td>
-</tr>
-</table>
+- **Model:** XGBoost regressor with time-based features, shown in an interactive Streamlit dashboard
+- **Stack:** Python · XGBoost · Pandas · Streamlit
+- 🔗 [Repository](https://github.com/Harshit-Soni-1905/WattWise-Energy-Forecasting) · [Live Demo](https://wattwise-energy-forecasting-mbdbdm3tqh5uhhypgwfxqw.streamlit.app/)
 
 ---
 
-## 📊 GitHub Analytics
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Soni-1905&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Soni-1905&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Soni-1905&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshit-Soni-1905&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Soni-1905&theme=tokyo-night&hide_border=true" />
-</p>
-
+| Area | Tools |
+|---|---|
+| **Languages** | Python, Java, C/C++, SQL |
+| **ML / Deep Learning** | PyTorch, Scikit-learn, XGBoost, YOLOv8, NumPy, Pandas, Matplotlib |
+| **LLM / RAG** | Embeddings, vector search, RAG pipelines, tool-calling agents |
+| **Backend and Apps** | FastAPI, Pydantic, Streamlit, MySQL |
+| **Tools** | Git, GitHub, Docker, Linux, Google Colab |
 
 ---
 
-## 🧑‍💻 Developer Mindset
+## Experience
 
-```python
-while True:
-    learn()
-    build()
-    experiment()
-    break_things()
-    debug()
-    improve()
-    repeat()
-```
+- **Outreach Lead**, GDG ABESEC *(promoted from Production Coordinator)*
+- **Production Member**, Technovation
+- **Python Developer Intern**, Pinnacle Labs
 
 ---
 
-## 🤝 Let's Connect
+## Currently Learning
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/harshitxsoni/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshitsoni1905@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Harshit-Soni-1905">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+- Deeper NLP and Transformer fundamentals
+- Production ML: experiment tracking, CI/CD, deployment
+- Data Structures and Algorithms in Java
 
 ---
 
 <p align="center">
-<b>Building at the intersection of AI, software and curiosity.</b>
-</p>
-
-<p align="center">
-<i>"Consistency beats talent when talent doesn't work consistently."</i>
+  <a href="https://github.com/Harshit-Soni-1905">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Soni-1905&theme=tokyonight" height="170"/>
+  </a>
+  <a href="https://github.com/Harshit-Soni-1905">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Soni-1905&theme=tokyonight" height="170"/>
+  </a>
 </p>
